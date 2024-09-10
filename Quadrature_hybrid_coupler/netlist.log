@@ -1,0 +1,35 @@
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="Quadrature_hybrid_coupler_lib:QuadMain:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+define cell_1 ( P1  P2  P3  P4 ) 
+;parameters 
+TLIN:TL2  P2 P1 Z=Z0_tb Ohm E=theta_lb F=fc GHz 
+TLIN:TL4  P4 P1 Z=Z0_lr Ohm E=theta_lr F=fc GHz 
+
+X=1.0
+fc=2.5
+Z0_tb=35.35
+Z0_lr=50
+theta_lb=90
+theta_lr=90
+TLIN:TL6  P3 P4 Z=Z0_tb Ohm E=theta_lb F=fc GHz 
+TLIN:TL7  P3 P2 Z=Z0_lr Ohm E=theta_lr F=fc GHz 
+end cell_1
+cell_1:I__0  N__0 N__3 N__2 N__1 
+Port:TermG1  N__0 0 Num=1 Z=50 Ohm Noise=yes 
+Port:TermG2  N__3 0 Num=2 Z=50 Ohm Noise=yes 
+Port:TermG3  N__2 0 Num=3 Z=50 Ohm Noise=yes 
+Port:TermG4  N__1 0 Num=4 Z=50 Ohm Noise=yes 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=1.0 GHz Stop=8.0 GHz Step=0.05 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
