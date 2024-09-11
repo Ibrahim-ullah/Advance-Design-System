@@ -1,0 +1,1094 @@
+
+hpeesofsim (*) 450.shp Jan 21 2016, MINT version 4
+    (64-bit windows built: 01/21/16 15:34:19)
+Copyright 1995 - 2015 Keysight Technologies, 1989-2016.
+
+
+CT Sweep1[1] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>   myAngle=(0->360)
+
+SP Sweep1[1].SP1[1/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=0  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[2/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=1  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[3/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=2  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[4/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=3  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[5/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=4  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[6/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=5  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[7/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=6  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[8/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=7  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[9/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=8  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[10/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=9  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[11/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=10  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[12/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=11  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[13/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=12  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[14/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=13  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[15/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=14  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[16/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=15  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[17/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=16  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[18/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=17  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[19/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=18  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[20/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=19  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[21/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=20  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[22/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=21  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[23/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=22  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[24/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=23  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[25/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=24  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[26/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=25  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[27/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=26  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[28/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=27  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[29/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=28  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[30/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=29  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[31/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=30  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[32/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=31  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[33/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=32  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[34/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=33  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[35/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=34  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[36/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=35  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[37/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=36  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[38/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=37  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[39/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=38  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[40/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=39  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[41/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=40  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[42/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=41  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[43/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=42  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[44/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=43  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[45/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=44  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[46/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=45  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[47/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=46  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[48/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=47  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[49/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=48  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[50/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=49  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[51/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=50  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[52/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=51  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[53/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=52  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[54/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=53  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[55/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=54  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[56/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=55  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[57/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=56  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[58/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=57  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[59/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=58  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[60/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=59  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[61/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=60  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[62/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=61  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[63/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=62  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[64/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=63  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[65/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=64  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[66/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=65  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[67/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=66  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[68/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=67  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[69/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=68  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[70/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=69  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[71/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=70  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[72/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=71  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[73/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=72  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[74/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=73  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[75/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=74  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[76/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=75  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[77/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=76  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[78/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=77  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[79/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=78  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[80/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=79  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[81/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=80  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[82/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=81  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[83/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=82  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[84/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=83  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[85/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=84  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[86/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=85  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[87/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=86  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[88/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=87  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[89/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=88  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[90/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=89  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[91/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=90  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[92/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=91  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[93/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=92  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[94/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=93  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[95/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=94  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[96/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=95  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[97/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=96  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[98/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=97  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[99/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=98  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[100/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=99  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[101/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=100  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[102/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=101  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[103/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=102  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[104/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=103  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[105/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=104  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[106/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=105  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[107/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=106  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[108/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=107  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[109/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=108  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[110/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=109  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[111/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=110  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[112/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=111  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[113/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=112  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[114/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=113  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[115/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=114  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[116/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=115  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[117/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=116  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[118/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=117  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[119/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=118  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[120/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=119  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[121/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=120  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[122/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=121  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[123/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=122  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[124/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=123  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[125/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=124  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[126/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=125  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[127/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=126  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[128/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=127  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[129/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=128  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[130/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=129  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[131/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=130  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[132/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=131  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[133/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=132  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[134/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=133  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[135/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=134  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[136/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=135  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[137/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=136  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[138/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=137  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[139/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=138  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[140/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=139  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[141/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=140  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[142/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=141  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[143/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=142  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[144/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=143  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[145/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=144  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[146/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=145  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[147/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=146  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[148/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=147  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[149/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=148  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[150/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=149  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[151/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=150  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[152/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=151  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[153/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=152  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[154/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=153  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[155/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=154  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[156/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=155  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[157/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=156  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[158/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=157  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[159/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=158  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[160/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=159  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[161/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=160  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[162/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=161  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[163/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=162  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[164/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=163  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[165/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=164  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[166/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=165  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[167/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=166  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[168/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=167  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[169/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=168  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[170/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=169  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[171/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=170  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[172/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=171  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[173/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=172  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[174/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=173  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[175/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=174  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[176/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=175  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[177/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=176  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[178/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=177  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[179/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=178  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[180/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=179  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[181/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=180  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[182/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=181  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[183/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=182  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[184/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=183  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[185/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=184  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[186/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=185  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[187/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=186  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[188/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=187  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[189/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=188  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[190/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=189  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[191/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=190  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[192/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=191  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[193/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=192  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[194/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=193  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[195/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=194  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[196/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=195  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[197/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=196  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[198/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=197  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[199/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=198  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[200/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=199  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[201/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=200  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[202/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=201  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[203/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=202  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[204/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=203  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[205/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=204  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[206/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=205  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[207/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=206  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[208/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=207  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[209/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=208  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[210/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=209  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[211/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=210  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[212/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=211  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[213/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=212  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[214/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=213  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[215/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=214  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[216/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=215  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[217/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=216  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[218/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=217  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[219/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=218  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[220/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=219  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[221/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=220  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[222/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=221  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[223/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=222  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[224/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=223  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[225/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=224  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[226/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=225  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[227/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=226  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[228/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=227  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[229/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=228  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[230/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=229  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[231/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=230  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[232/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=231  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[233/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=232  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[234/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=233  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[235/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=234  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[236/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=235  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[237/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=236  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[238/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=237  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[239/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=238  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[240/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=239  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[241/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=240  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[242/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=241  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[243/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=242  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[244/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=243  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[245/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=244  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[246/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=245  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[247/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=246  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[248/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=247  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[249/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=248  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[250/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=249  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[251/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=250  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[252/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=251  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[253/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=252  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[254/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=253  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[255/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=254  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[256/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=255  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[257/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=256  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[258/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=257  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[259/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=258  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[260/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=259  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[261/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=260  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[262/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=261  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[263/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=262  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[264/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=263  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[265/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=264  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[266/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=265  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[267/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=266  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[268/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=267  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[269/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=268  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[270/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=269  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[271/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=270  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[272/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=271  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[273/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=272  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[274/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=273  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[275/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=274  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[276/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=275  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[277/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=276  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[278/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=277  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[279/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=278  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[280/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=279  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[281/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=280  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[282/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=281  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[283/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=282  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[284/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=283  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[285/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=284  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[286/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=285  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[287/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=286  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[288/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=287  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[289/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=288  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[290/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=289  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[291/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=290  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[292/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=291  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[293/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=292  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[294/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=293  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[295/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=294  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[296/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=295  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[297/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=296  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[298/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=297  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[299/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=298  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[300/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=299  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[301/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=300  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[302/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=301  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[303/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=302  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[304/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=303  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[305/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=304  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[306/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=305  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[307/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=306  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[308/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=307  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[309/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=308  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[310/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=309  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[311/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=310  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[312/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=311  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[313/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=312  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[314/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=313  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[315/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=314  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[316/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=315  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[317/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=316  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[318/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=317  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[319/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=318  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[320/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=319  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[321/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=320  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[322/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=321  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[323/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=322  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[324/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=323  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[325/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=324  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[326/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=325  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[327/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=326  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[328/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=327  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[329/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=328  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[330/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=329  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[331/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=330  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[332/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=331  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[333/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=332  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[334/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=333  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[335/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=334  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[336/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=335  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[337/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=336  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[338/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=337  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[339/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=338  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[340/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=339  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[341/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=340  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[342/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=341  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[343/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=342  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[344/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=343  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[345/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=344  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[346/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=345  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[347/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=346  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[348/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=347  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[349/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=348  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[350/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=349  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[351/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=350  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[352/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=351  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[353/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=352  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[354/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=353  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[355/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=354  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[356/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=355  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[357/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=356  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[358/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=357  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[359/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=358  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[360/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=359  freq=1.5 GHz
+.
+
+SP Sweep1[1].SP1[361/361] <Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic>  myAngle=360  freq=1.5 GHz
+.
+
+Resource usage:
+  Total stopwatch time     =     0.66 seconds.
+

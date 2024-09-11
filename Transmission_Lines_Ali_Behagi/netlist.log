@@ -1,0 +1,31 @@
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="Transmission_Lines_Ali_Behagi_lib:2_11_lumped_element_bia_insertion:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+Port:TermG1  N__2 0 Num=1 Z=50 Ohm Noise=yes 
+Port:TermG2  N__1 0 Num=2 Z=50 Ohm Noise=yes 
+MLIN2:TL1  N__2 N__3 Subst="MSub1" W=25.0 mil L=200 mil Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+MLIN2:TL2  N__3 N__1 Subst="MSub1" W=25.0 mil L=200 mil Wall1=1.0E+30 mil Wall2=1.0E+30 mil Mod=1 
+L:L1  N__5 N__3 L=33 nH Noise=yes  
+C:C1  N__7 N__0 C=100 pF 
+R:R1  N__9 N__5 R=50 Ohm Noise=yes 
+V_Source:SRC1  N__9 0 Type="V_DC" Vdc=10 V SaveCurrent=1 
+model MSub1 MSUB H=25 mil Er=10.2 Mur=1 Cond=1.0E+50 Hu=3.9e+034 mil T=0 mil TanD=0.0035 Rough=0 mil DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=1.0 GHz Stop=10.0 GHz Step=1.0 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+
+Options:Options1 Tnom=25 TopologyCheck=yes ForceS_Params=yes GiveAllWarnings=yes MaxWarnings=10  \
+SaveBranchCurrents=no OutputInternalNodes=no ForceM_Params=yes DC_ReadInitialGuess=no DC_WriteFinalSolution=no  \
+TopologyCheckMessages=no GPU=no doDeltaAC=no ReduceSPort=no ReduceSPortRatio=0.5  \
+WarnSOA=yes MaxWarnSOA=5 Census=no MinNodalR=1e-2 Ohm LargeCapThreshold=1e-3 F 
+
