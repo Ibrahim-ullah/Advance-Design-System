@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      Lenovo
+HostName                       DESKTOP-TNF1AF3
+ProcessIdentifier              7396
+ProcessCreationTime_UTC        1726375117
+ProcessCreationTime_Readable   09/15/24 10:38:37 Bangladesh Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\Lenovo\Desktop\EMON\ADS\Resonant_circuits_filter_ali_behagi\MyWorkspace_wrk\MyLibrary_lib\4_6\schematic\sch.oa.cdslck
+TimeEditLocked                 09/15/24 14:35:31 Bangladesh Standard Time

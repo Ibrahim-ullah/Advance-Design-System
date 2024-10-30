@@ -1,3 +1,9 @@
 SYSTEM_CUSTOM_CIRCUIT_SYMBOLS={%DESIGN_KIT_SYSTEM_CUSTOM_CIRCUIT_SYMBOLS};{$HPEESOF_DIR}\custom\{%PROJECT1}\symbols
 SYSTEM_CUSTOM_CIRCUIT_DESIGNS={%DESIGN_KIT_SYSTEM_CUSTOM_CIRCUIT_DESIGNS};{$HPEESOF_DIR}\custom\{%PROJECT1}\designs
 VIA_CONFIG_PATH={%DESIGN_KIT_VIA_CONFIG_PATH};.:{%PROJECT_SEARCH_PATH}:{$HOME}\hpeesof\de\defaults:{$HPEESOF_DIR}\de\defaults:{%DESIGN_KIT_VIA_CONFIG_PATH}:{%USER_VIA_CONFIG_PATH}
+LAST_LIBRARY_SELECTED=Transmission_Lines_Ali_Behagi_lib
+SCHEM_FILE_OPEN_HISTORY_1=Transmission_Lines_Ali_Behagi_lib:2_11_distributed_bias_feed_design:schematic
+SCHEM_FILE_OPEN_HISTORY_2=Transmission_Lines_Ali_Behagi_lib:2_11_lumped_element_bia_insertion:schematic
+SCHEM_FILE_OPEN_HISTORY_3=Transmission_Lines_Ali_Behagi_lib:2_11_2_Open_circuited_transmission_line:schematic
+SCHEM_FILE_OPEN_HISTORY_4=Transmission_Lines_Ali_Behagi_lib:2_11_1_short_circuited_line_reactance:schematic
+SCHEM_FILE_OPEN_HISTORY_5=Transmission_Lines_Ali_Behagi_lib:2_11_2_quarter_wave_short_circuit:schematic
